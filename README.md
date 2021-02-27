@@ -10,5 +10,7 @@ http://login2explore.com/jpdb/docs.html
 * It is low level (raw) form of data and is also human readable.
 * It helps developers in faster coding, in-turn reduces development cost.
 
-#ScreenShots
-![alt text](http://url/to/img.png)
+# ScreenShots
+![1](https://user-images.githubusercontent.com/65536986/109376540-264a8e00-78eb-11eb-9603-9d25357fb5eb.PNG)
+![2](https://user-images.githubusercontent.com/65536986/109376542-277bbb00-78eb-11eb-982f-040f92512cd0.PNG)
+![3](https://user-images.githubusercontent.com/65536986/109376543-28145180-78eb-11eb-9595-ae21d3316735.PNG)
